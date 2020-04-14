@@ -11,3 +11,9 @@ var miFuncion = function (a, b){
 }
 
 miFuncion(1,2);
+
+
+switch (false){
+    case false:
+        
+}
